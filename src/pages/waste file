@@ -1,0 +1,30 @@
+<!-- <div className='row'>
+                <img src={image} />
+                <div className='layer'>
+                  <h5>ui ux design</h5>
+                  <p>suchendra harsha is a good boy and also obident boy who always listen his mothers words</p>
+                  {/* <a href="#"><i className='bx bx-link-external'></i></a> */}
+                </div>
+              </div>
+
+              <div className='row'>
+                <img src={image} />
+                <div className='layer'>
+                  <h5>ui ux design</h5>
+                  <p>suchendra harsha is a good boy and also obident boy who always listen his mothers words</p>
+                </div>
+              </div>
+              <div className='row'>
+                <img src={image} />
+                <div className='layer'>
+                  <h5>ui ux design</h5>
+                  <p>suchendra harsha is a good boy and also obident boy who always listen his mothers words</p>
+                </div>
+              </div>
+              <div className='row'>
+                <img src={image} />
+                <div className='layer'>
+                  <h5>ui ux design</h5>
+                  <p>suchendra harsha is a good boy and also obident boy who always listen his mothers words</p>
+                </div>
+              </div> -->
