@@ -6,7 +6,7 @@ const RealFooter = () => {
         <div className='rf_Cont'>
             <div className="rf_heading">
                 <h1 className="rf_hText">
-                    Sudeva harsha protfolio
+                    Suchendra harsha protfolio
                 </h1>
             </div>
             <div className="rf_copyright">
